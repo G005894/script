@@ -9,3 +9,5 @@ else if (x % 2 == 0){
 else {
     console.log ("o número é ímpar " + x)
 }
+
+var diretor = 1
